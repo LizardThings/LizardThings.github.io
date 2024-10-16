@@ -1,0 +1,21 @@
+@font-face {
+  font-family: 'Cousine';
+  src: local('Cousine'),
+    url('/fonts/cousine-regular.ttf') format("ttf");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Cousine';
+  src: local('Cousine'),
+    url('/fonts/cousine-bold.ttf') format("ttf");
+  font-weight: bold;
+  font-style: bold;
+}
+@font-face {
+  font-family: 'Cousine';
+  src: local('Cousine'),
+    url('/fonts/cousine-italic.ttf') format("ttf");
+  font-weight: italic;
+  font-style: italic;
+}
