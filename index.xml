@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Choses de lézard</title>
+    <title>Aurelia·Aurita</title>
     <link>https://lizardthings.github.io/</link>
-    <description>Recent content on Choses de lézard</description>
+    <description>Recent content on Aurelia·Aurita</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <lastBuildDate>Mon, 19 Aug 2024 00:00:00 +0000</lastBuildDate>
@@ -27,7 +27,7 @@
       <link>https://lizardthings.github.io/%C3%A0-propos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://lizardthings.github.io/%C3%A0-propos/</guid>
-      <description>📷 Instagram&#xA;✉️ gwen_clnt@protonmail.com&#xA;Copyright © 2024 ଳ. CC BY-SA 4.0 license.&#xA;Site généré avec Hugo à partir du thème smigle.</description>
+      <description>📷 Instagram&#xA;✉️ aurita.aurelia@protonmail.com&#xA;Copyright © 2024 ଳ. CC BY-SA 4.0 license.&#xA;Site généré avec Hugo à partir du thème smigle.</description>
     </item>
   </channel>
 </rss>
