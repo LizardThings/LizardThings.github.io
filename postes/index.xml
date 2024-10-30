@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Postes on Aurelia·Aurita</title>
-    <link>https://aurelia-aurita.net/postes/</link>
+    <link>https://lizardthings.github.io/postes/</link>
     <description>Recent content in Postes on Aurelia·Aurita</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <lastBuildDate>Mon, 19 Aug 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://aurelia-aurita.net/postes/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://lizardthings.github.io/postes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Écologisation des sports de nature - Partie 1</title>
-      <link>https://aurelia-aurita.net/postes/ecologisation-des-sports-de-nature-part1/</link>
+      <link>https://lizardthings.github.io/postes/ecologisation-des-sports-de-nature-part1/</link>
       <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://aurelia-aurita.net/postes/ecologisation-des-sports-de-nature-part1/</guid>
+      <guid>https://lizardthings.github.io/postes/ecologisation-des-sports-de-nature-part1/</guid>
       <description>&lt;p&gt;Dans cette partie, on commente une première génération de travaux publiés entre 2001 et 2011 et qui traitent l’écologisation en tant que dynamique à l’œuvre dans les transformations contemporaines des «sports de nature».&lt;/p&gt;</description>
     </item>
     <item>
       <title>Écologisation des sports de nature - Partie 0</title>
-      <link>https://aurelia-aurita.net/postes/ecologisation-des-sports-de-nature-part0/</link>
+      <link>https://lizardthings.github.io/postes/ecologisation-des-sports-de-nature-part0/</link>
       <pubDate>Fri, 21 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://aurelia-aurita.net/postes/ecologisation-des-sports-de-nature-part0/</guid>
+      <guid>https://lizardthings.github.io/postes/ecologisation-des-sports-de-nature-part0/</guid>
       <description>&lt;p&gt;Cette série d’article représente la première étape d’une réflexion et d’un programme qui vise pour moi à disperser la confusion autour de l’objet de mon intérêt pour un ensemble de pratiques communément désignées par la catégorie de «sports de nature».&lt;/p&gt;</description>
     </item>
   </channel>
