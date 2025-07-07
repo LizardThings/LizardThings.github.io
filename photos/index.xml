@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Photos on </title>
+    <link>https://lizardthings.github.io/photos/</link>
+    <description>Recent content in Photos on </description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://lizardthings.github.io/photos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vanry</title>
+      <link>https://lizardthings.github.io/photos/vanry/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://lizardthings.github.io/photos/vanry/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
