@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>http://localhost:1313/</link>
+    <link>https://lizardthings.github.io/</link>
     <description>Recent content on </description>
     <generator>Hugo</generator>
     <language>fr</language>
     <lastBuildDate>Mon, 19 Aug 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://lizardthings.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sports et loisirs de nature</title>
-      <link>http://localhost:1313/postes/ecologisation-des-sports-de-nature/</link>
+      <link>https://lizardthings.github.io/postes/ecologisation-des-sports-de-nature/</link>
       <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/postes/ecologisation-des-sports-de-nature/</guid>
+      <guid>https://lizardthings.github.io/postes/ecologisation-des-sports-de-nature/</guid>
       <description>&lt;p&gt;Cet article fait suite au poste inaugural « Pourquoi s’intéresser aux sports de nature ? » où notre intérêt insatisfait et notre insatisfaction intéressée pour les usages récréatifs de la nature nous a mené à entreprendre une revue de la littérature des travaux en sciences sociales abordant le développement contemporain des « sports de nature » à partir de la notion d’écologisation.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Pourquoi s’intéresser aux «sports de nature» ?</title>
-      <link>http://localhost:1313/postes/pourquoi-sports-nature/</link>
+      <link>https://lizardthings.github.io/postes/pourquoi-sports-nature/</link>
       <pubDate>Fri, 21 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/postes/pourquoi-sports-nature/</guid>
+      <guid>https://lizardthings.github.io/postes/pourquoi-sports-nature/</guid>
       <description>&lt;p&gt;Ce bout d’article représente la première étape d’une réflexion et d’un programme qui vise pour moi à disperser la confusion autour de l’objet de mon intérêt pour un ensemble de pratiques communément désignées par la catégorie de «sports de nature».&lt;/p&gt;</description>
     </item>
     <item>
       <title>À propos</title>
-      <link>http://localhost:1313/%C3%A0-propos/</link>
+      <link>https://lizardthings.github.io/%C3%A0-propos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/%C3%A0-propos/</guid>
+      <guid>https://lizardthings.github.io/%C3%A0-propos/</guid>
       <description>Bluesky | aurelie_clnt@proton.me&#xA;Site statique généré avec Hugo à partir d’une version modifiée du thème smigle.</description>
     </item>
   </channel>
