@@ -1,9 +1,14 @@
 #root {
-  font-family: Garamond;
-  max-width: 800px;
+  font-family: Garamond, Verdana;
+  max-width: 700px;
   margin: 0 auto;
   padding: 10px;
+  font-size: 20px;
 }
+h1 { font-size: 1.6em;
+	}
+h2 { font-size: 1.3em;
+	}
 #brand {
   display: flex;
   flex-direction: column;
