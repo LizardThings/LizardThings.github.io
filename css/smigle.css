@@ -1,13 +1,13 @@
 #root {
-  font-family: Garamond, Verdana;
-  max-width: 770px;
+  font-family: 'iA Writer Duo S', Verdana;
+  max-width: 825px;
   margin: 0 auto;
   padding: 10px;
-  font-size: 20px;
+  font-size: 18px;
 }
-h1 { font-size: 1.6em;
+h1 { font-size: 1.3em;
 	}
-h2 { font-size: 1.3em;
+h2 { font-size: 1.2em;
 	}
 #brand {
   display: flex;
